@@ -11,7 +11,5 @@ import { faUserShield, faChartLine, faWallet } from '@fortawesome/free-solid-svg
 })
 export class HomeComponent {
   // Icons for Font Awesome
-  faUserShield = faUserShield;
-  faChartLine = faChartLine;
-  faWallet = faWallet;
+  
 }
